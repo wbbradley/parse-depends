@@ -5,10 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 pytest = "*"
+pylint = "*"
 
 [packages]
-pylint = "*"
 lifted = "*"
-
-[requires]
-python_version = "2.7"
